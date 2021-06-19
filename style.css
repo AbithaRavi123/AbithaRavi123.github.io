@@ -200,7 +200,7 @@ button:active{
     display: flex;
 }
 .box1,.box2,.box3{
-    width: 300px;
+    width: 320px;
     height: 320px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -244,7 +244,6 @@ button:active{
 .box2 p:nth-child(2),
 .box3 p:nth-child(2){
     color: #FFFFFF;
-    width: 230px;
     font-family: calibri;
     font-size: 23px;
     line-height: 0px;
