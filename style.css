@@ -91,10 +91,10 @@ nav ul li a{
     border: 2px solid #000000;
     color: #000000;
 }
-/*.down-cv{
+.resume{
     background-color: #0b0b0b;
     color: #FFFFFF;
-    border: none;*/
+    border: none;
 }
 button:active{
     transform: scale(1.1);
