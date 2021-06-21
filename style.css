@@ -106,8 +106,8 @@ button:active{
     font-family: sans-serif;
 }
 .model{
-    height: 500px;
-    width: 210px;
+    height: 550px;
+    width: 300px;
     position:absolute;
     bottom: 5px;
     left: 70%;
