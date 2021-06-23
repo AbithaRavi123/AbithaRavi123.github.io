@@ -106,12 +106,12 @@ button:active{
     font-family: sans-serif;
 }
 .model{
-    height: 650px;
+    height: 710px;
     width: 330px;
     position:absolute;
     bottom: 5px;
     left: 70%;
-    top: 200px;
+    top: 100px;
     transform: translateX(-50%);
 }
 .about-container{
